@@ -20,10 +20,6 @@ The hare stretched himself out
 alongside the road and fell asleep. Thinking,” There’s a lot of time to relax.” The tortoise walked and walked; never ever stopping until
 she came to the finish line. The animals who were watching cheered so loudly that they woke up the hare. The hare stretched and yawned and run
 again, but it was too late. Tortoise was already over the line.
-
-<script src="script.js"></script>
-  <head>
-    <title>story namber 2!</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>

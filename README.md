@@ -23,17 +23,14 @@ again, but it was too late. Tortoise was already over the line.
 
 <script src="script.js"></script>
   <head>
-    <title>Hello, World!</title>
+    <title>story namber 2!</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-      <h1 class="title">Hello World! </h1>
+      <h1 class="title">story namber 2! </h1>
       <p id="currentTime"></p>
-      <script src="script.js"></script>
   </body>
 </html>
-<h1>Main Heading</h1>
-<h2>Subheading</h2>
 <p>This is a paragraph.</p>
 <ul>
 </ul>

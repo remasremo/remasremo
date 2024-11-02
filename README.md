@@ -8,33 +8,8 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
-        <nav>
-            <nav>
-            </ul>
-        </nav>
-    </header>
-
-    <main>
-            <p>How are you?.</p>
-        </section>
-            <p>Today we will talk about two stories</p>.</p>
-        </section>
-
-        <section id="services">
-            <h2>story</h2>
-            <p>Beautiful story time.</p>
-        </section>
-
-        <section id="contact">
-            <h2>Contact</h2>
-            <p>You can contact me via email at remaswe629@gmail.com.</p>
-        </section>
-    </main>
-
-    <footer>
-        <p>&copy; 2024 My Simple Website. All rights reserved.
-        The HARE and the Tortoise
+        <h1>Welcome to My book store</h1>
+        
 Once there was a speedy hare
 who bragged about how fast he could run. Tired of hearing him boast, the tortoise challenged him to a race. All the animals in the forest gathered
 To watch. The hare run down the road for a while and then paused
